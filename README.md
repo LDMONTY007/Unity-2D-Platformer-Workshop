@@ -6,6 +6,7 @@ This repo is intended for use with the [UNCC Game Design Workshop](https://docs.
 ###### Download not required for the workshop, just here for reference while completing the workshop.
 I would prefer if you used this as reference during the workshop and only used it as a template after gaining a proper understanding of the code itself. <br />
 <br />
+<br /> Desmos graph of the Jumping formulas we use in this workshop: [Desmos Game Formulas]https://www.desmos.com/calculator/cgbtu8qjh3 <br />
 Download the code from this repo and extract it, go into the unity hub. In the hub click the drop down beside "Open" and click "Add Project from disk", Select the extracted contents of the file you downloaded and it should open. <br />
 By that I mean in the Unity-2D-Platformer-Workshop folder there should be 3 folders, if this is the case select the Unity-2D-Platformer-Workshop folder. <br />
 <br />
